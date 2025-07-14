@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'setwd("/home/jovyan/5hpjn_src")' >> /home/jovyan/.Rprofile
